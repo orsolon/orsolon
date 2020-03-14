@@ -3,7 +3,7 @@
 # Débora Orsolon
 
 #About me:
-_Olá!_ Eu moro em São Paulo (SP), fiz Administração de Empresas na PUC-SP e trabalhei por mais de 20 anos na área administrativa em uma Distribuidora de Revistas. Atualmente estudo desenvolvimento web: fiz um bootcamp de `FullStack`, projetando meu futuro trabalho. Me apaixonei pelo **Front End** e estou focando meus estudos nessa área.
+_Olá!_ Eu moro em São Paulo (SP), fiz Administração de Empresas na PUC-SP e trabalhei por mais de 20 anos na área administrativa em uma Distribuidora de Revistas. Atualmente estudo desenvolvimento web: fiz um bootcamp de `FullStack`, projetando meu futuro trabalho. Me apaixonei pelo **Front End**:heartpulse: e estou focando meus estudos nessa área.
 
 * [email:]() <debora.orsolon@terra.com.br>
 * [Linkedin:]() <https://www.linkedin.com/in/deboraorsolon/>
