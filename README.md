@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://github.com/orsolon/orsolon/blob/master/9867-github-logo-octocat-animated.gif" alt="Github Logo Octocat animated"/>
+<img align="right" width="400" height="400" src="https://github.com/orsolon/orsolon/blob/master/animation_500_kcwji3mw.gif" alt="Github Logo Octocat animated"/>
 
 # Welcome!
  
