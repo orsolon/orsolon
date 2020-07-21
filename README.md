@@ -1,4 +1,4 @@
-![](/img/codando.png)
+![](codando.png)
 
 # Débora Orsolon
 
