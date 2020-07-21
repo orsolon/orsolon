@@ -1,12 +1,18 @@
-<img src="codando.png.jpg" alt="working" width="200"/>
+<img align="right" width="400" height="400" src="codando.png.jpg" alt="working"/>
 
-# Débora Orsolon
+# Welcome!
+ 
+## I'm Débora Orsolon!
 
-#About me:
+## About me:
 _Olá!_ Eu moro em São Paulo (SP), fiz Administração de Empresas na PUC-SP e trabalhei por mais de 20 anos na área administrativa em uma Distribuidora de Revistas. Atualmente estudo desenvolvimento web: fiz um bootcamp de `FullStack`, projetando meu futuro trabalho. Me apaixonei pelo **Front End**:heartpulse: e estou focando meus estudos nessa área.
 
-* [email:]() <debora.orsolon@terra.com.br>
-* [Linkedin:]() <https://www.linkedin.com/in/deboraorsolon/>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/orsolon)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](<https://www.linkedin.com/in/deboraorsolon/>)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+11+994266676&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:debora.buu@gmail.com)
+ 
+
 
 ## Cursos e Formação Acadêmica
 ______________________________
@@ -23,3 +29,8 @@ Bootcamp onde foi abordado:
     * SCRUM
 
 * Graduação em Administração de Empresas (2000-2005) - [PUC-SP](https://www.pucsp.br/)
+
+- Thanks for visiting. 
+ 
+- Enjoy it!!
+ 
