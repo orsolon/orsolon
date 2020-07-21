@@ -27,6 +27,8 @@ Bootcamp onde foi abordado:
     * Laravel
     * Introdução do React
     * SCRUM
+    
+* React JS no AceleraDev da Codenation  (2020)
 
 * Graduação em Administração de Empresas (2000-2005) - [PUC-SP](https://www.pucsp.br/)
 
