@@ -1,4 +1,4 @@
-![](codando.png)
+<img src="" alt="coding" width="200"/>
 
 # Débora Orsolon
 
