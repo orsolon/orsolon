@@ -17,6 +17,11 @@ _Olá!_ Eu moro em São Paulo (SP), fiz Administração de Empresas na PUC-SP e 
 ## Cursos e Formação Acadêmica
 ______________________________
 
+*  We can code academy - Gama (Fev-2021-)
+
+    * Angular
+    * .Net
+
 * Desenvolvimento Web Full Stack (2019-2020) - [Digital House](https://www.digitalhouse.com/br/)
 Bootcamp onde foi abordado:
     * HTML
