@@ -17,23 +17,23 @@ _Olá!_ Eu moro em São Paulo (SP), fiz Administração de Empresas na PUC-SP e 
 ## Cursos e Formação Acadêmica
 ______________________________
 
-*  We can code academy - Gama (Fev-2021-)
 
-    * Angular
-    * .Net
-
-* Desenvolvimento Web Full Stack (2019-2020) - [Digital House](https://www.digitalhouse.com/br/)
+* Desenvolvimento Web Full Stack (Jun a Dez 2021) - [Let´s Code](https://letscode.com.br/)
 Bootcamp onde foi abordado:
     * HTML
     * CSS
-    * Bootstrap
-    * Javascript
-    * PHP
-    * Laravel
-    * Introdução do React
-    * SCRUM
-    
-* React JS no AceleraDev da Codenation  (2020)
+    * JavaScript
+    * Angular
+    * c#
+    * .Net
+    * SQL
+     
+* Bootcamp Angular Avanade - 80 horas  (2020)
+
+* Gama Expirience - Gama Academy - 120 horas (2020)
+  * treinamento intensivo de capacitação ao mercado digital, com habilidades técnicas e comportamentais
+  da stack de hacker(desenvolvimeto front-end). Nesse treinamento trabalhamos em conjunto com colegas de 
+  outras áreas (marketing, vendas e ux) na criação de projetos.
 
 * Graduação em Administração de Empresas (2000-2005) - [PUC-SP](https://www.pucsp.br/)
 
